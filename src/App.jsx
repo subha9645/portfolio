@@ -22,7 +22,7 @@ Aos.init();
     <Navbar/>
     <div className="container">
       <Home/>
-      <Experience/>
+      
       <Skills/>
       <Project/>
       <Contact/>

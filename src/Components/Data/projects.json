@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "Real Estate App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "imageSrc": "skills/estate.jpg",
     "description": "This is a project made with Node.js, Express, React, and MongoDB (MERN Stack).",
     "demo": "https://www.example.com",
     "source": "https://github.com/subha9645/Estate-App"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Clligify App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "imageSrc": "skills/cllg.jpg",
     "description": "This is a project made with complete React js. This project is deployed on Vercel. to see click the demo",
     "demo": "https://college-site-gz82pp8c8-subhajit-gopes-projects.vercel.app/",
     "source": "https://github.com/subha9645?tab=repositories"
